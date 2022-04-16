@@ -6,11 +6,15 @@
 
 ## Application
 
-### The changes I made directly applied to the code structure itself. 
+#### The changes I made directly applied to the code structure itself. 
 1. The CSS styling was reorganized to match the HTML structure. 
 2. Comments were added to both the HTML and CSS documents to allow for a more understandable code to build off in the future. 
 
 ## Result
 
-#### Not only is the website more accessible to the user, but the code itself is reformatted to fit the logical structure so that it is more accessible to the coding community. 
+Not only is the website more accessible to the user, but the code itself is reformatted to fit the logical structure so that it is more accessible to the coding community. 
 
+
+## Credits
+
+[ Starter Code (https://github.com/coding-boot-camp/urban-octo-telegram)]
