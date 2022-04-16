@@ -19,6 +19,16 @@ p {
     font-size: 16px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* Header Style Starts Here */
 header {
     padding: 20px;
@@ -54,30 +64,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/* Footer Style Starts Here */
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
-
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-/* Hero Section Style Start Here */
+/* Hero Style Starts Here */
 .hero {
     height: 800px;
     width: 100%;
@@ -206,4 +193,16 @@ footer h2 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+/* Footer Style Starts Here */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
 }
