@@ -17,7 +17,7 @@
 Not only is the website more accessible to the user, but the code itself is reformatted to fit the logical structure so that it is more accessible to the coding community. 
 
 [Updated Website](https://olivelliott.github.io/module-1-challenge/)
-![Updated Website]()./assets/images/screenshot)
+![Updated Website](./assets/images/screenshot)
 
 ## Credits
 
